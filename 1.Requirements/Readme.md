@@ -1,3 +1,4 @@
+
 # HOSTEL MANAGEMENT SYSTEM
 # INTRODUCTION
 Online Hostel Management System is software developed for managing various activities in the hostel. For the past few years the number of educational institutions isincreasing rapidly. Thereby the number of hostels is also increasing for the accommodationof the students studying in this institution. We can improve the efficiency of the system, thus overcome the drawbacks of the existing system.
